@@ -1,0 +1,2 @@
+# EstructuraDiscoDuro
+Tarea de investigacion
